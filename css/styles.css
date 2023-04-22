@@ -1,4 +1,7 @@
 @import url("header.css");
+@import url("banner.css");
+@import url("carrosel.css");
+
 body{
     background-color: var(--cor-de-fundo);
     font-family: var(--font);
@@ -16,4 +19,7 @@ body{
     --branco-secundario: #F9F9F9;
     --font:'Poppins';
     --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+}
+main{
+    font-family: var(--font);
 }
