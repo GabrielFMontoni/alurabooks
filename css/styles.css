@@ -1,5 +1,19 @@
-@import url("variaveis.css");
 @import url("header.css");
 body{
     background-color: var(--cor-de-fundo);
+    font-family: var(--font);
+    font-size: 16px;
+    font-weight: 400;
+}
+:root{
+    --cor-de-fundo:#E5E5E5;
+    --preto:#000;
+    --azul:#002F52;
+    --amarelo:#EB9B00;
+    --cinza-secundario:#C4C4C4;
+    --branco:#fff;
+    --cinza-terciario:#858585;
+    --branco-secundario: #F9F9F9;
+    --font:'Poppins';
+    --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
 }
