@@ -3,7 +3,7 @@
     font-family: var(--font);
     font-size: 16px;
     font-weight: 400;
-    padding: 1.5em 2em 2em;
+    padding: 1.5em 1.5em 2em;
 }
 .rodape{
     border-top: 2px solid var(--cinza-terciario);
