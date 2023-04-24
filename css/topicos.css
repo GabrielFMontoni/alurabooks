@@ -25,7 +25,10 @@
 .topicos__item{
     margin: 2em 0.5em;
 }
-
+.topicos__link:hover{
+    color: var(--amarelo);
+    background-color: var(--branco);
+}
 @media screen and (min-width:1024px) {
     .topicos__link{
         font-size: 24px;
@@ -42,5 +45,13 @@
         width: 90%;
         margin: 0 auto;
     }
+    .topicos{
+        padding: 1em 20vw;
+    }   
 
+}
+@media screen and (min-width:1728px) {
+    .topicos{
+        padding: 1em 30vw;
+    }   
 }
