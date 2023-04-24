@@ -21,6 +21,7 @@ body{
     --branco-secundario: #F9F9F9;
     --font:'Poppins';
     --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --font-secundaria:'Josefin Sans';
 }
 main{
     font-family: var(--font);
