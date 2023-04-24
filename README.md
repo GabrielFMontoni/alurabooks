@@ -10,7 +10,7 @@ Um projeto da Alura com o objetivo de aprender mobile first, seguindo os passos 
 Este projeto foi realizado para acompanhar os exercicios conforme o curso de HTML e CSS da alura com responsividade pensando em mobile-first.
 
 ## :file_folder: Acesso ao projeto
-Este projeto não foi hospedado ainda e não é possível acessa-lo na web.
+https://alurabooks-ruddy.vercel.app
 
 ## :hammer_and_wrench: Abrir e rodar o projeto
 Abra o arquivo "index.html" em seu navegador.
