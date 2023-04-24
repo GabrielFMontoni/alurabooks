@@ -25,3 +25,22 @@
 .topicos__item{
     margin: 2em 0.5em;
 }
+
+@media screen and (min-width:1024px) {
+    .topicos__link{
+        font-size: 24px;
+        padding: 1em 1.333333333em;
+    }
+    .topicos__item{
+        margin: 2em 0;
+    }
+    .topicos__titulo{
+        font-size: 24px;
+    }
+    .topicos__lista{
+        gap: 1em;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+}

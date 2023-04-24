@@ -81,7 +81,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;   
+   
 
 }
 .lista-menu__titulo{
@@ -131,4 +131,12 @@
         display: block;
         width: auto;
     }
+    
+    /* .lista-menu__item:hover{
+        background:var(--degrade);
+    }
+    .lista-menu__item:hover ~ a {
+        background-color: var(--branco);
+        color: var(--branco);
+    } */
 }
